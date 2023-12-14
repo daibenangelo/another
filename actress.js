@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script>
-      actors = {
+      let actors = {
         "@meta": {
           operation: "NameAwards",
           requestId: "a9c49e26-65e2-4fc0-bf10-5214d1c12c66",
